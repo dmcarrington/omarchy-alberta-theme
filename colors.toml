@@ -1,0 +1,35 @@
+# Alberta — Banff spruce shadow, glacial meltwater, and alpine haze.
+
+mode = "dark"
+
+accent = "#6bbdd4"
+selection = "#234449"
+muted = "#5c7f84"
+
+background = "#0c1b1c"
+dark_background = "#081314"
+darker_background = "#050d0e"
+lighter_background = "#1a3134"
+
+foreground = "#c6e2e6"
+dark_foreground = "#86a9ae"
+light_foreground = "#d8eef0"
+bright_foreground = "#ecfbfc"
+
+red = "#e0766f"
+yellow = "#d9d08a"
+orange = "#e0a070"
+green = "#5fb878"
+cyan = "#5cc8c4"
+blue = "#6aa9dc"
+magenta = "#a59ad8"
+brown = "#6b5a4c"
+
+bright_red = "#f09a90"
+bright_yellow = "#ebe3a4"
+bright_green = "#86d69a"
+bright_cyan = "#8be0dc"
+bright_blue = "#9cccf0"
+bright_magenta = "#c3b8ee"
+
+hyprland_active_border = "rgb(6bbdd4) rgb(5fb878) 45deg"
